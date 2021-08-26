@@ -6,8 +6,8 @@ This portal can be used to
 2. Display the details in the portal by providing the employee ID.
 3. Modify the existing employee details with the help op Employee ID.
 
-The entries are stored in a file in the specified format :
-<Employee ID>:<Employee name>:<Employee salary>:<Employee designation>
+The entries are stored in a file in the specified format -
+Employee ID:Employee name:Employee salary:Employee designation 
   
 Validation criteria :
   1. Employee name can only contain alphabets and should be max 25 characters long.
